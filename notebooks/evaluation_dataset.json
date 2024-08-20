@@ -1,0 +1,58 @@
+[{
+    "question": "How can I increase the number of villagers?",
+    "answer": "To increase the number of villagers click on the Town Center and then click on the Create Villager button"
+
+},
+{
+    "question": "How can I change the civilization that I play with?",
+    "answer": "When playing a Random Map, Regicide, or Death Match game, you can select which of 13 great medieval civilizations you want to battle or guide to glory. Each civilization has particular abilities, a unique military unit that can be created starting in the Castle Age, a special bonus that applies during team games, and access to certain units and technolo-gies.You can choose your civilization and your computer opponents’ civilizations. When choosing a civilization, consider the map type, victory conditions, and strengths and weaknesses of your opponents. For information about each civilization’s capabilities, see the foldout provided with the game and the technology trees in the Appendix or in the game. You can also choose a random civilization, to let the computer choose civilizations for you and all other players."
+},
+{
+    "question": "How do you approach the early game (0-10 minutes), what do you focus on first?",
+    "answer": "The key is to keep your Town Center as active as possible"
+},
+{
+    "question":"What do I need to have a lumberjacks and Builder",
+    "answer": "You need lumberjack to gather wood that is storaged in the Town Center. Builder to construct building, the more builder you have the faster you will construct new buildings"
+},
+{
+    "question": "What happens to buildings when they get damaged?",
+    "answer": "They catch fire!"
+  },
+  {
+    "question": "Can I repair buildings that have been damaged?",
+    "answer": "Yeah, villagers can fix them for me!"
+  },
+  {
+    "question": "Do I need to have all my villagers do repairs, or can just one of them do it?",
+    "answer": "If you use multiple villagers, it's way faster! Like building, repairs are speeded up when you use more than one villager."
+  },
+  {
+    "question": "What happens if my housing gets destroyed?",
+    "answer": "Don't worry, you don't lose the villagers it was supporting! But you'll need to build new housing before you can make any more units."
+  },
+  {
+    "question": "What do I need to make new villagers?",
+    "answer": "You need to have enough housing to support them. One House or Town Center can support five units. You will also need food."
+  },
+  {
+    "question": "What happens when I advance to the next age?",
+    "answer": "You get access to new buildings, units, and technologies that make your civilization stronger. To advance, click the Town Center and then click the button for the next age."
+  },
+  {
+    "question": "Can I upgrade my existing units?",
+    "answer": "Yes, you can pay to upgrade your military units, ships, walls, and towers to more powerful versions. This replaces all existing structures, units, or ships of a certain type with the upgraded version."
+  },
+  {
+    "question": "How do I upgrade my units?",
+    "answer": "To upgrade units, click the building where they are created (Barracks, Archery Range, Stable, etc.). Then, click the button for the unit you want to upgrade. For example, to upgrade Militia to Men-at-Arms, click the Barracks and then click the Upgrade to Man-at-Arms button."
+  },
+  {
+    "question": "What happens when I research technology?",
+    "answer": "You improve your civilization by making villagers harder to kill, improving military units, and increasing resource production. Researching technology takes time and resources but gives immediate benefits. Some technologies build on each other from one age to the next."
+  },
+  {
+    "question": "How do I research technology?",
+    "answer": "You can research technology at various buildings (Town Center, University, etc.). Each building has its own set of technologies that you can research. For more information about technologies and costs, see Chapter VIII or the Appendix in the game."
+  }
+]

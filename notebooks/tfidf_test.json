@@ -1,0 +1,877 @@
+[
+    {
+        "question": "What type of camel was known to be an especially experienced warrior and camel rider?",
+        "true_answer": "The heavy camel was an especially experienced warrior and camel rider.",
+        "source_doc": "The heavy camel was an especially experienced warrior and camel rider who wore some armor . They were\nused by desert civilizations of the Middle East who fought against archers from the Byzantine Empire and\nhorse archers raiding down from the steppes of Asia.",
+        "generated_answer": "The Heavy Camel (page 78).",
+        "retrieved_docs": [
+            "The heavy camel was an especially experienced warrior and camel rider who wore some armor . They were\nused by desert civilizations of the Middle East who fought against archers from the Byzantine Empire and\nhorse archers raiding down from the steppes of Asia.",
+            "type of unit in the building)\nHold down CTRL+SHIFT, and then click the type of unit to\nremain garrisoned.",
+            "sand and could go long periods without water . In addition, horses shied away from the presence of camels. TheSaracens made good use of camels during the Crusades; camel riders appeared out of the desert to raid\nCrusader outposts and caravans and then escaped back into terrain that horses could not cross.\nHeavy Camel\nExcels at killing other mounted units.\n/c67/c114/c101/c97/c116/c101/c100/c32/c97/c116 Stable",
+            "To ungarrison a particular unit\nClick the unit in the status area at the bottom of the screen.\nTo eject all units except one\nHold down CTRL, and then click the unit to remain\ngarrisoned.\nTo eject all units of the same type (for example,\nall villagers)\nHold down SHIFT, and then click the type of unit to\nungarrison.\nTo eject all units of a different type (and leave only one\ntype of unit in the building)",
+            "Chapter I: Getting Started\nWhat\u2019s new in Age of Empires II ............................................ 1"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 78
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 40
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 78
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 40
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 1
+            }
+        ]
+    },
+    {
+        "question": "What are the standard ways to win a Random Map or Death Match game in this game?",
+        "true_answer": "You can win any Random Map or Death Match game by being the first player or team to defeat your enemies in military conquest, control all relics, or build a Wonder. Your opponents do not have to pursue the same victory condition.",
+        "source_doc": "the game. You can display the objectives again during a game by clicking the Objectives\nbutton at the top of the screen.\nStandard victory\nYou can win any Random Map or Death Match game by being the first player or team todefeat your enemies in military conquest, control all relics, or build a Wonder. You andyour opponents do not have to pursue the same victory condition. For example, you may",
+        "generated_answer": "According to page 18, in a Random Map or Death Match game, you can win by being the first player or team to defeat your enemies in military conquest, control all relics, or build a Wonder.",
+        "retrieved_docs": [
+            "Death Match game\nIn a Death Match, all players start the game with huge stockpiles of wood, food, gold, and\nstone \u2014 and then fight to the death.\nTo play a single-player Death Match game\nClick Single Player  on the main menu, click Death Match , and then choose the\ngame settings. For help choosing these settings, hold your mouse pointer over anyitem on the screen to display information in the lower-right corner.",
+            "16 Chapter II  -  Setting Up a GameHow to win\nHow you win a game depends on its victory conditions. If you\u2019re playing a Random Map\nor Death Match game, you can choose the victory condition before the game starts. Ifyou\u2019re playing any other type of game, you win by achieving the objective(s) displayed at\nthe beginning of the game, which may also include victory condition(s) required to win",
+            "the game. You can display the objectives again during a game by clicking the Objectives\nbutton at the top of the screen.\nStandard victory\nYou can win any Random Map or Death Match game by being the first player or team todefeat your enemies in military conquest, control all relics, or build a Wonder. You andyour opponents do not have to pursue the same victory condition. For example, you may",
+            "example, the Byzantines build strong walls and are a good defensive civilization. For more\ninformation on choosing a civilization, see Chapter II.\nGetting started\nRandom Map games are a common type of game in Age of Empires II. Every Random Map\ngame is different because the map is never the same.\nTo start a single-player Random\nMap game\nClick Single Player  on the main menu, click\nRandom Map , and then choose the game",
+            "If you are learning to play Age of Empires II, you may want to start with the\nWilliam Wallace learning campaign. Just click Learn to Play  on the main\nmenu.\nRandom Map game\nIn a Random Map game, you play a different game every time because the mapis never the same. You can use the standard game settings or choose your own,including the number of players and their civilizations, map type and size,"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 15
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 18
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 18
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 5
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 14
+            }
+        ]
+    },
+    {
+        "question": "What types of units can Non-upgraded Monks convert if they research technology at the Monastery?",
+        "true_answer": "Non-upgraded Monks can convert enemy villagers, ships, nonsiege military units, most buildings, all siege units, and enemy Monks if they research technology at the Monastery.",
+        "source_doc": "color) so you can control them. For example, if you convert enemy villagers, you can\ngather wood using them. If you convert an enemy Barracks, you can create infantry there.Non-upgraded Monks can convert enemy villagers, ships, and nonsiege military units. If\nyou research technology at the Monastery, they can also convert most buildings, all siege\nunits, and enemy Monks. Units that you convert count toward your population.",
+        "generated_answer": "Non-upgraded Monks can convert enemy buildings, all siege units, and enemy Monks. (Page 41)",
+        "retrieved_docs": [
+            "color) so you can control them. For example, if you convert enemy villagers, you can\ngather wood using them. If you convert an enemy Barracks, you can create infantry there.Non-upgraded Monks can convert enemy villagers, ships, and nonsiege military units. If\nyou research technology at the Monastery, they can also convert most buildings, all siege\nunits, and enemy Monks. Units that you convert count toward your population.",
+            "You can convert and use a building you have not constructed, but converted units and\nbuildings maintain their attributes (attack, range, and so on) at conversion; they cannot\nbe upgraded. A Monk ordered to convert an enemy unit in a formation will convert onlythat unit and not the entire formation.",
+            "upgraded version. For example, if you create 10 Militia in the Dark Age, once you\nadvance to the Feudal Age you can upgrade your 10 existing Militia to Men-at-Arms,which are stronger. Units that a Monk has converted cannot be upgraded; they retain the\nattributes they had at the time they were converted.\nTo upgrade military units, ships, towers, and walls\n1 To upgrade military units, click the building where they",
+            "To convert an enemy unit or building\nClick a Monk, and then right-click the enemy unit or building to convert.\nMonks can convert most enemy units from a distance; however, they must stand adjacent\nto buildings, rams, and Trebuchets to convert them. There is a random chance that the",
+            "All villagers garrisoned by the original town bell are ungarrisoned and return to what they\nwere doing before the bell rang. If this is not possible (for example, if a villager was\nconstructing a building that was destroyed in combat), the villager returns to the location\nand stands idle.\nConverting enemy units & buildings\nYou can use Monks to convert enemy units and buildings to your civilization (player"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 41
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 41
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 35
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 41
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 41
+            }
+        ]
+    },
+    {
+        "question": "What military tradition did the Byzantine army carry on from the old Roman Empire?",
+        "true_answer": "The Byzantine army carried on many of the military traditions of the old Roman Empire into the Middle Ages.",
+        "source_doc": "Armor \u2014 Scale Barding Armor, Chain Barding Armor, Plate\nBarding Armor (Blacksmith)\nSpeed \u2014 Husbandry (Stable)\nUnit creation speed \u2014 Conscription (Castle)\nYour units resistant to other Monks \u2014 Faith (Monastery)\nThe Byzantine army carried on many of the military traditions of the old Roman Empire into the Middle\nAges. This was a professional force that was well trained and well led. Officers studied tactics and command.",
+        "generated_answer": "The Byzantine army carried on many of the military traditions of the old Roman Empire into the Middle Ages. (Extracted from page 79)",
+        "retrieved_docs": [
+            "Armor \u2014 Scale Barding Armor, Chain Barding Armor, Plate\nBarding Armor (Blacksmith)\nSpeed \u2014 Husbandry (Stable)\nUnit creation speed \u2014 Conscription (Castle)\nYour units resistant to other Monks \u2014 Faith (Monastery)\nThe Byzantine army carried on many of the military traditions of the old Roman Empire into the Middle\nAges. This was a professional force that was well trained and well led. Officers studied tactics and command.",
+            "The army was organized into formal units that maintained their own traditions for centuries.  The best units\nin the Byzantine army were partially armored cavalrymen called cataphracts.  They fought with severalweapons, including the bow and sword.  With plains to the east and north of their empire, the cataphract was\nideally suited for combat against the unarmored cavalry of their enemies.  The Byzantine army went into",
+            "Longer ranged patrols meant earlier warnings and more time for preparation against attack.\nMasonry\nMasonry (at the University) makes your buildings stronger so\nthey can take more damage in combat.\nEuropeans of the Dark Ages and later had to relearn the techniques of masonry exhibited by the Roman ruins\nthat surrounded them. Roman bridges and aqueducts stood for many centuries after the Roman Empire was",
+            "often overrun by the heavy cavalry of both sides.  A few armies trained elite skirmishers who could disruptenemy formations,  fall back,  and support the main friendly fighting force from the sides. An army that could\nput elite skirmishers in the field to support its main army had an advantage over an army that did not. The",
+            "The heavy camel was an especially experienced warrior and camel rider who wore some armor . They were\nused by desert civilizations of the Middle East who fought against archers from the Byzantine Empire and\nhorse archers raiding down from the steppes of Asia."
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 79
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 79
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 93
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 71
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 78
+            }
+        ]
+    },
+    {
+        "question": "What countries did the Normans invade besides England in 1066?",
+        "true_answer": "The Normans also invaded Sicily and southern Italy.",
+        "source_doc": "invasion of 1066.  The Normans also invaded Sicily and southern Italy. Many of the Crusades involved sea\nmovement from France to the Holy Land.  The English brought armies into France several times during theHundred Y ear\u2019 s W ar .\nDemolition Ship & Heavy Demolition Ship\nFilled with explosives. Pilot near enemy ships and detonate to wrest\ncontrol of the sea from an entrenched opponent.\n/c66/c117/c105/c108/c116/c32/c97/c116 Dock",
+        "generated_answer": "According to page 86 of the context, the Normans also invaded Sicily and southern Italy. (page 86)",
+        "retrieved_docs": [
+            "The lord could withdraw into the tower, putting his animals on the bottom,  stores and treasure on a second\nfloor, living on upper floors, and fighting from the top. The Normans were famous for building stone watchtowers across their lands in Normandy and England to provide military and political control.",
+            "Chapter I: Getting Started\nWhat\u2019s new in Age of Empires II ............................................ 1",
+            "invasion of 1066.  The Normans also invaded Sicily and southern Italy. Many of the Crusades involved sea\nmovement from France to the Holy Land.  The English brought armies into France several times during theHundred Y ear\u2019 s W ar .\nDemolition Ship & Heavy Demolition Ship\nFilled with explosives. Pilot near enemy ships and detonate to wrest\ncontrol of the sea from an entrenched opponent.\n/c66/c117/c105/c108/c116/c32/c97/c116 Dock",
+            "of the main army. England\u2019s Harold Godwinson stood his ground in 1066 at Hastings withonly his vassals. If he had fallen back and called up the Anglo-Saxon militia,  known as the\nfurd,  some historians believe he would not have lost his kingdom to William the Conqueror .",
+            "target and did great damage to the tops and roofs of walls,  towers,  and other structures.  T rebuchets wereexpensive and complicated machines, requiring specialists to build and operate. They could only be moved in\nparts and required assembly before use.  Edward I of England refused the surrender of Stirling Castle in"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 59
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 1
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 86
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 61
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 83
+            }
+        ]
+    },
+    {
+        "question": "What impact did Viking sea raiders have on the progress made by Charlemagne?",
+        "true_answer": "The Vikings caused significant turmoil, which largely erased the progress made by Charlemagne in uniting Northern Europe and beginning a rebirth of civilization.",
+        "source_doc": "Late in the eighth century Viking sea raiders from Scandinavia appeared suddenly in Northern Europe.  They\nraided and plundered coastal communities for the next 150 years.  Most of the progress made by Charlemagne\nin uniting Northern Europe and beginning a rebirth of civilization was erased by the turmoil they caused. The",
+        "generated_answer": "The Viking sea raiders' raids for 150 years erased most of the progress made by Charlemagne in uniting Northern Europe and beginning a rebirth of civilization (page 65).",
+        "retrieved_docs": [
+            "Late in the eighth century Viking sea raiders from Scandinavia appeared suddenly in Northern Europe.  They\nraided and plundered coastal communities for the next 150 years.  Most of the progress made by Charlemagne\nin uniting Northern Europe and beginning a rebirth of civilization was erased by the turmoil they caused. The",
+            "possibly some heavier siege artillery. The crew would attempt to board and capture an enemy ship in hand-to-hand fighting. Catapults or large crossbows provided additional firepower .\nLongboat & Elite Longboat\nViking unique unit created in Castle Age. (The Vikings are the only\ncivilization with two unique units. The Viking Longboat may be built at\na Dock once a Viking Castle has been built.)\n/c66/c117/c105/c108/c116/c32/c97/c116 Dock",
+            "Feudal Age\nThe Frankish Empire assembled by Charlemagne in the ninth century can\nbe considered the end of the Dark Age in Europe and the beginning of the\nFeudal Age.  Barbarian tribal groups that overran much of W estern Europewere giving way to better-organized regional powers.  The church in Rome\nwas providing a unifying social fabric.  Charlemagne attempted to revive",
+            "quality product,  and high prices.\nCartography\nCartography (at the Market) lets you share exploration and\nunit line of sight with your allies so you see what they have\nexplored. (Before your allies can see what you have explored,\nthey must research Cartography, too.)\nThere was a revival of European learning after the Dark Ages that started mainly in the monasteries of the",
+            "Chapter I: Getting Started\nWhat\u2019s new in Age of Empires II ............................................ 1"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 65
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 88
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 33
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 98
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 1
+            }
+        ]
+    },
+    {
+        "question": "In what state were Viking warriors known to enter during battle?",
+        "true_answer": "Viking warriors were known to enter a state of 'berserk' during battle, which was characterized by inhuman zeal and obliviousness to danger.",
+        "source_doc": "Vikings were known for their great seamanship and ferocity in battle. Witnesses claimed that Viking warriorswould occasionally go \u201cberserk\u201d  and attack with nearly inhuman zeal, oblivious to all danger . Such behavior\nwas terrifying to behold and very difficult to withstand. The ability to go mad with battle lust was a powerful\nattribute during a period of widespread superstition.",
+        "generated_answer": "They would go \"berserk\" and attack with nearly inhuman zeal. (Context: Page 65)",
+        "retrieved_docs": [
+            "Vikings were known for their great seamanship and ferocity in battle. Witnesses claimed that Viking warriorswould occasionally go \u201cberserk\u201d  and attack with nearly inhuman zeal, oblivious to all danger . Such behavior\nwas terrifying to behold and very difficult to withstand. The ability to go mad with battle lust was a powerful\nattribute during a period of widespread superstition.",
+            "possibly some heavier siege artillery. The crew would attempt to board and capture an enemy ship in hand-to-hand fighting. Catapults or large crossbows provided additional firepower .\nLongboat & Elite Longboat\nViking unique unit created in Castle Age. (The Vikings are the only\ncivilization with two unique units. The Viking Longboat may be built at\na Dock once a Viking Castle has been built.)\n/c66/c117/c105/c108/c116/c32/c97/c116 Dock",
+            "Chapter I: Getting Started\nWhat\u2019s new in Age of Empires II ............................................ 1",
+            "72 Chapter VII  -  UnitsSome of the best units in the T urkish armies were the janissaries.  These men were slaves captured as children\nand raised under Islam to be fanatical warriors. They wore distinctive white headgear and marched into\nbattle accompanied by music.  They fought on foot with a variety of weapons,  including early firearms when",
+            "62 Chapter VII  -  Unitsso highly regarded at the time. Lords kept champions on retainer for status and because staged fights between\nelite warriors were used on occasion to resolve disputes.  Having a great champion in your pay or as a vassal\nwas the Middle Age equivalent to having a good lawyer . Champions were professional warriors who might"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 65
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 88
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 1
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 74
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 64
+            }
+        ]
+    },
+    {
+        "question": "What shape were guard towers usually in the context given?",
+        "true_answer": "Guard towers were usually round.",
+        "source_doc": "for fighting defense. Whereas some earlier watch towers had been square,  guard towers were usually round toeliminate a sharp corner that could be knocked off. Fighting positions at the top of a guard tower were\nimproved to protect defenders. Hoardings extended out from the top, allowing defenders to reach the bottom of\nthe guard tower with missiles.  Entrances to guard towers were made more elaborate and more easilydefendable.\nKeep",
+        "generated_answer": "Guard towers were usually round (Extracted from page 60) to eliminate a sharp corner that could be knocked off.",
+        "retrieved_docs": [
+            "for fighting defense. Whereas some earlier watch towers had been square,  guard towers were usually round toeliminate a sharp corner that could be knocked off. Fighting positions at the top of a guard tower were\nimproved to protect defenders. Hoardings extended out from the top, allowing defenders to reach the bottom of\nthe guard tower with missiles.  Entrances to guard towers were made more elaborate and more easilydefendable.\nKeep",
+            "protection and to add additional attack strength to the tower. You canupgrade your Watch Towers to Guard Towers at the University.\nSome of the earliest fortified stone structures were simple watch towers.  From the watch tower a local lord\ncould keep a large area in view. The stone structure made it impregnable to assault except by a major force.",
+            "Chapter I: Getting Started\nWhat\u2019s new in Age of Empires II ............................................ 1",
+            "The mangonel was an improvement on the ancient catapult that was used to throw stones and other missiles,\nusually in a siege attack against a fortified position. The mangonel usually fired directly at a target,  using a\nbar to stop the throwing arm when it was vertical. This threw the missile directly forward.  Mangonels were",
+            "you can build Bombard Towers. Because of the new architecture\ninvolved, preexisting towers do not upgrade to Bombard Towers.Acquiring this technology only allows you to build Bombard Towers.\nBy the end of the Middle Ages the development of cannon had changed military engineering by making\nstandard castles obsolete.  Their high vertical walls were particularly susceptible to direct cannon fire aimed at"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 60
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 59
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 1
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 82
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 60
+            }
+        ]
+    },
+    {
+        "question": "What type of unit is created at the Stable in this context?",
+        "true_answer": "Cavalry",
+        "source_doc": "Cavalry\nCavalry units are used for scouting and combat. You can create cavalry units at the Stable\nand improve them by researching technology at the Blacksmith.\nScout Cavalry\nFast with extensive sight; resistant to conversion.\n/c67/c114/c101/c97/c116/c101/c100/c32/c97/c116 Stable\n/c83/c116/c114/c111/c110/c103/c32/c118/c115 /c46 archers, mangonels, cavalry archers, Bombard Cannons, Monks",
+        "generated_answer": "Cavalry. \n\nExtracted from page 56",
+        "retrieved_docs": [
+            "type of unit in the building)\nHold down CTRL+SHIFT, and then click the type of unit to\nremain garrisoned.",
+            "To ungarrison a particular unit\nClick the unit in the status area at the bottom of the screen.\nTo eject all units except one\nHold down CTRL, and then click the unit to remain\ngarrisoned.\nTo eject all units of the same type (for example,\nall villagers)\nHold down SHIFT, and then click the type of unit to\nungarrison.\nTo eject all units of a different type (and leave only one\ntype of unit in the building)",
+            "Chapter I: Getting Started\nWhat\u2019s new in Age of Empires II ............................................ 1",
+            "W eapons were made and stored and soldiers drilled in the barracks. During the late Middle Ages, the barracks\nwas incorporated within a castle complex. It became also the part of the castle where professional soldiers lived,ready to help defend the castle or maintain order in the surrounding countryside.\nStable\nThe Stable is used to\ncreate and improve\ncavalry. Stable units\ncan be garrisonedinside the Stable if\nyou set a gather",
+            "buildings. The Archery Range is used to create archers, the Stable to create cavalry, and\nthe Siege Workshop to build siege weapons. The Castle is used to create Trebuchets andthe unit unique to your civilization, and the Monastery is used to create Monks.\nTo create a military unit\nClick the Barracks, Archery Range, Stable, Siege\nWorkshop, Castle, or Monastery, and then click the"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 40
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 40
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 1
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 56
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 31
+            }
+        ]
+    },
+    {
+        "question": "What can move a Relic in this context?",
+        "true_answer": "A Relic can only be moved by a Monk.",
+        "source_doc": "are special objects (similar to trophies) that are placed randomly on the map. There\nare multiple relics on a map. They can only be moved if carried by a Monk (see\nChapter IV), and they must be garrisoned inside a Monastery in order to be con-trolled by your civilization. Relics cannot be destroyed. For example, if a Transport\nShip sinks with a Monk carrying a relic on board, the relic appears on a nearby shore.",
+        "generated_answer": "A Monk (page 18) can move a relic.",
+        "retrieved_docs": [
+            "Chapter I: Getting Started\nWhat\u2019s new in Age of Empires II ............................................ 1",
+            "are special objects (similar to trophies) that are placed randomly on the map. There\nare multiple relics on a map. They can only be moved if carried by a Monk (see\nChapter IV), and they must be garrisoned inside a Monastery in order to be con-trolled by your civilization. Relics cannot be destroyed. For example, if a Transport\nShip sinks with a Monk carrying a relic on board, the relic appears on a nearby shore.",
+            "quality product,  and high prices.\nCartography\nCartography (at the Market) lets you share exploration and\nunit line of sight with your allies so you see what they have\nexplored. (Before your allies can see what you have explored,\nthey must research Cartography, too.)\nThere was a revival of European learning after the Dark Ages that started mainly in the monasteries of the",
+            "watch reported danger to give the community time to prepare what defense it could.T echnologies",
+            "All villagers garrisoned by the original town bell are ungarrisoned and return to what they\nwere doing before the bell rang. If this is not possible (for example, if a villager was\nconstructing a building that was destroyed in combat), the villager returns to the location\nand stands idle.\nConverting enemy units & buildings\nYou can use Monks to convert enemy units and buildings to your civilization (player"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 1
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 18
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 98
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 92
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 41
+            }
+        ]
+    },
+    {
+        "question": "How does building Mills, LumberCamps, or Mining Camps affect resource collection speed?",
+        "true_answer": "Building Mills near sources of food, LumberCamps near forests, and Mining Camps near stone and gold mines improves the speed at which villagers can deposit resources.",
+        "source_doc": "The more villagers at work gathering resources, the faster your stockpile grows. Villagers\ncan deposit the resources more quickly if you build Mills near sources of food, LumberCamps near forests, and Mining Camps near stone and gold mines.\nResearching the following technologies improves your villagers\u2019 gathering abilities:",
+        "generated_answer": "According to page 28, building Mills near food sources, Lumber Camps near forests, and Mining Camps near stone or gold mines increases villager gathering speed.",
+        "retrieved_docs": [
+            "The more villagers at work gathering resources, the faster your stockpile grows. Villagers\ncan deposit the resources more quickly if you build Mills near sources of food, LumberCamps near forests, and Mining Camps near stone and gold mines.\nResearching the following technologies improves your villagers\u2019 gathering abilities:",
+            "Constructing buildings\nConstructing buildings costs wood or stone. You can build more than one of eachbuilding. For example, you might build two Lumber Camps or three Mining Camps. Asyou advance through the ages, the appearance of each building evolves and new military\nunits, upgrades, technologies, and buildings become available. Allied civilizations cannot",
+            "Loom I 50G +15 villager HPs; +1/+1P armor\nWheelbarrow II 175F, 50W +10% villager speed; +25% villager capacity\nHand Cart III 300F, 200W +10% villager speed; +50% villager capacity\nGold Mining II 100F, 75W +15% gold-mining speed\nGold Shaft Mining III 200F, 150W +15% gold-mining speed\nStone Mining II 100F, 75W +15% stone-mining speed\nStone Shaft Mining III 200F, 150W +15% stone-mining speed\nDouble-Bit Axe II 100F, 50W +20% wood-chopping speed",
+            "antiquity, this technolog y greatly sped the otherwise backbreaking process of grinding wheat and other grains\ninto flour .  Mills used water,  wind,  and animal power to turn the grinding stone. Grain was converted intoflour and the mill owner kept a percentage of the flour as compensation. Mills might be owned by a local lord,\na monastery, or a local entrepreneur . The profits of mills led to conflict and competition,  and the right to grind",
+            "your stone and gold mining. Build Mining Camps near stone or goldmines to gather these resources faster.\nMining continued throughout the Middle Ages, especially for iron,  salt, copper, tin,\ngold,  coal,  and silver . The invention of gunpowder greatly increased demand for"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 28
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 29
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 111
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 52
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 52
+            }
+        ]
+    },
+    {
+        "question": "What action does a Monk take once he has converted a unit?",
+        "true_answer": "Once a Monk has converted a unit, he stands idle until given another command.",
+        "source_doc": "must order a Monk to convert a unit. The Monk then attempts to convert the unit as\nsoon as it is within range. When the Monk has converted a unit, he stands idle untilgiven another command. There is a random chance that the Monk will fail to convert a\nunit. Monks must rejuvenate their strength after a successful conversion. The rejuvena-\ntion percentage is shown in the status area at the bottom of the screen.",
+        "generated_answer": "Once a Monk converts a unit, it stands idle until given another command. (Extracted from page 41)",
+        "retrieved_docs": [
+            "must order a Monk to convert a unit. The Monk then attempts to convert the unit as\nsoon as it is within range. When the Monk has converted a unit, he stands idle untilgiven another command. There is a random chance that the Monk will fail to convert a\nunit. Monks must rejuvenate their strength after a successful conversion. The rejuvena-\ntion percentage is shown in the status area at the bottom of the screen.",
+            "upgraded version. For example, if you create 10 Militia in the Dark Age, once you\nadvance to the Feudal Age you can upgrade your 10 existing Militia to Men-at-Arms,which are stronger. Units that a Monk has converted cannot be upgraded; they retain the\nattributes they had at the time they were converted.\nTo upgrade military units, ships, towers, and walls\n1 To upgrade military units, click the building where they",
+            "You can convert and use a building you have not constructed, but converted units and\nbuildings maintain their attributes (attack, range, and so on) at conversion; they cannot\nbe upgraded. A Monk ordered to convert an enemy unit in a formation will convert onlythat unit and not the entire formation.",
+            "Chapter I: Getting Started\nWhat\u2019s new in Age of Empires II ............................................ 1",
+            "Scotland on one occasion so that he could watch his most recently acquired T rebuchet in action.used to fire one large stone or a basket of smaller stones. They were often assembled on the spot for use,  but\nwere also built on wheeled frames for easier movement.\nThe onager was an improvement of the mangonel; it was larger, more powerful, and hurled a heavier payload"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 41
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 35
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 41
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 1
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 83
+            }
+        ]
+    },
+    {
+        "question": "What structures and units can survive an attack in the given context?",
+        "true_answer": "Towers, walls, gates, relics, Fishing Ships, Fish Traps, Transport Ships, Trade Ships, Trade Carts, Farms, and sheep",
+        "source_doc": "must destroy all units and buildings but the following: towers, walls, gates, relics,Fishing Ships, Fish Traps, Transport Ships, Trade Cogs, Trade Carts, Farms, and\nsheep.\nYour military units, warships, and towers automatically attack enemy units\nwithin their line of sight unless you order them to attack a different unit or theyare set to No Attack.\nEnemy buildings and walls are not visible until you explore the area of the map",
+        "generated_answer": "According to the extracted text from page 60, military engineers built new structures that were less susceptible to cannon fire, including bombard towers.",
+        "retrieved_docs": [
+            "33Upgrading your units\nAs you advance through the ages, you can pay to upgrade your existing military units,\nships, walls, and towers to ones with better attack strength, defense, and speed. When you\nupgrade, all of your existing structures, units, or ships of a certain type are replaced withthe more powerful upgrade. Any new structures you build or units you create will be the",
+            "Chapter I: Getting Started\nWhat\u2019s new in Age of Empires II ............................................ 1",
+            "their base.  Military engineers responded by building new structures that were less susceptible to cannon fire\nand by mounting cannon within these structures to augment their defensive positions along coasts, atimportant river crossings, and at other strategic points. These new bombard towers swept the approaches to\nharbors and towns, making them more difficult to attack.",
+            "quality product,  and high prices.\nCartography\nCartography (at the Market) lets you share exploration and\nunit line of sight with your allies so you see what they have\nexplored. (Before your allies can see what you have explored,\nthey must research Cartography, too.)\nThere was a revival of European learning after the Dark Ages that started mainly in the monasteries of the",
+            "engine. Several important military technologies can also beresearched at the Castle.\nA Castle supports 20 population units and can garrison 20 villagers or military units\n(except siege weapons). Units can be garrisoned at any time. You can garrison unique\nunits by setting a gather point while the units are being created. Units garrisoned in theCastle heal more quickly than units garrisoned in other buildings."
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 35
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 1
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 60
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 98
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 57
+            }
+        ]
+    },
+    {
+        "question": "Which religious groups embraced the practice of living in monasteries?",
+        "true_answer": "Monastic life was embraced by several religions, including Christianity and Buddhism.",
+        "source_doc": "53\nMonasteries were closed religious communities to which particularly devout priests, scholars,  and believers\nwithdrew for a life of prayer, study, and service. Monastic life was embraced by several religions,  including\nChristianity and Buddhism. Residents of monasteries became known as monks. In parts of Dark Age Europe,",
+        "generated_answer": "According to page 55, several religions, including Christianity and Buddhism, embraced the practice of living in monasteries.",
+        "retrieved_docs": [
+            "53\nMonasteries were closed religious communities to which particularly devout priests, scholars,  and believers\nwithdrew for a life of prayer, study, and service. Monastic life was embraced by several religions,  including\nChristianity and Buddhism. Residents of monasteries became known as monks. In parts of Dark Age Europe,",
+            "Feudal Age\nThe Frankish Empire assembled by Charlemagne in the ninth century can\nbe considered the end of the Dark Age in Europe and the beginning of the\nFeudal Age.  Barbarian tribal groups that overran much of W estern Europewere giving way to better-organized regional powers.  The church in Rome\nwas providing a unifying social fabric.  Charlemagne attempted to revive",
+            "forests were cleared, use of the bow spread.  T raining with missile weapons took place at the archery range.  Thetraining of bowmen was especially favored in England, where every town had an archery range and\ncompetitions were held each week to encourage practice.  From its large pool of archers, England could easily",
+            "monasteries were the only remaining centers of learning. Irish monks,  for example, were instrumental inpreserving much ancient knowledge and spreading it back into Europe as the Dark Ages waned. Over time\nmonasteries grew rich in donated land.  They became very important local institutions as a source of educated\nmen who could serve as administrators. They also provided health care and emergency relief from theirstockpiles of food.\nUniversity",
+            "into tools, weapons,  shields, and armor . The ability to makesuperior weapons and armor became a highly prized and well-\nrewarded skill. Blacksmiths,  armorers, and weapon makers moved into the rising middle class.\nMonastery\nMonasteries let you create Monks and improve their ability to heal\nthe wounded and convert the enemy. Monasteries cannot beconverted by enemy Monks. Relics garrisoned inside a Monastery"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 55
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 33
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 57
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 55
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 54
+            }
+        ]
+    },
+    {
+        "question": "What determines the resistance of a unit to other Monks in the given context?",
+        "true_answer": "The resistance of a unit to other Monks is determined by 'Faith' (Monastery)",
+        "source_doc": "/c85/c112/c103/c114/c97/c100/c101/c115 Attack \u2014 Forging, Iron Casting, Blast Furnace (Blacksmith)\nArmor \u2014 Scale Barding Armor, Chain Barding Armor, Plate\nBarding Armor (Blacksmith)\nSpeed \u2014 Husbandry (Stable)\nUnit creation speed \u2014 Conscription (Castle)\nYour units resistant to other Monks \u2014 Faith (Monastery)\nThere was a hierarchy among knights based on feudal rank and fighting prowess. A lowly knight might",
+        "generated_answer": "Don't know.",
+        "retrieved_docs": [
+            "terminated. The map size determines how long you must control the relics to win the\ngame.",
+            "Chapter I: Getting Started\nWhat\u2019s new in Age of Empires II ............................................ 1",
+            "down clock appears in the upper-right corner of the screen. The color of the clockindicates which civilization owns the Wonder. If a Wonder is destroyed before the\nrequired time period, the countdown is terminated. The map size determines how\nlong a Wonder must stand to win the game.\nzRelics victory\nThe first player or team to control all relics for the required time period wins. Relics",
+            "quality product,  and high prices.\nCartography\nCartography (at the Market) lets you share exploration and\nunit line of sight with your allies so you see what they have\nexplored. (Before your allies can see what you have explored,\nthey must research Cartography, too.)\nThere was a revival of European learning after the Dark Ages that started mainly in the monasteries of the",
+            "To ungarrison a particular unit\nClick the unit in the status area at the bottom of the screen.\nTo eject all units except one\nHold down CTRL, and then click the unit to remain\ngarrisoned.\nTo eject all units of the same type (for example,\nall villagers)\nHold down SHIFT, and then click the type of unit to\nungarrison.\nTo eject all units of a different type (and leave only one\ntype of unit in the building)"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 18
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 1
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 18
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 98
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 40
+            }
+        ]
+    },
+    {
+        "question": "Which region did the Byzantine Empire lose during its decline?",
+        "true_answer": "The Byzantine Empire lost the plains of Asia Minor during its decline.",
+        "source_doc": "decline partially because it lost the plains of Asia Minor from which it had drawn both horses and cavalrymenfor service as cataphracts.\nMameluke & Elite Mameluke\nSaracen unique unit created in Castle Age. Camel with ranged attack.\nExcels vs. other mounted units.\n/c67/c114/c101/c97/c116/c101/c100/c32/c97/c116 Castle\n/c83/c116/c114/c111/c110/c103/c32/c118/c115 /c46 Barracks units, Monks, Teutonic Knights",
+        "generated_answer": "The Byzantine Empire lost the plains of Asia Minor from which it had drawn horses and cavalrymen for service as cataphracts (page 79).",
+        "retrieved_docs": [
+            "The army was organized into formal units that maintained their own traditions for centuries.  The best units\nin the Byzantine army were partially armored cavalrymen called cataphracts.  They fought with severalweapons, including the bow and sword.  With plains to the east and north of their empire, the cataphract was\nideally suited for combat against the unarmored cavalry of their enemies.  The Byzantine army went into",
+            "The heavy camel was an especially experienced warrior and camel rider who wore some armor . They were\nused by desert civilizations of the Middle East who fought against archers from the Byzantine Empire and\nhorse archers raiding down from the steppes of Asia.",
+            "monks called the T eutonic Knights.  This order gave up crusading in the Eastern Mediterranean and turned itsattention to Eastern Europe. Through conquest they brought Christianity to the Baltic region and forests of\nwhat became Prussia.  They built castles from which they could control the surrounding countryside. The\nT eutonic Knights were committed warriors who carved out an empire that lasted into the twentieth century.",
+            "decline partially because it lost the plains of Asia Minor from which it had drawn both horses and cavalrymenfor service as cataphracts.\nMameluke & Elite Mameluke\nSaracen unique unit created in Castle Age. Camel with ranged attack.\nExcels vs. other mounted units.\n/c67/c114/c101/c97/c116/c101/c100/c32/c97/c116 Castle\n/c83/c116/c114/c111/c110/c103/c32/c118/c115 /c46 Barracks units, Monks, Teutonic Knights",
+            "Armor \u2014 Scale Barding Armor, Chain Barding Armor, Plate\nBarding Armor (Blacksmith)\nSpeed \u2014 Husbandry (Stable)\nUnit creation speed \u2014 Conscription (Castle)\nYour units resistant to other Monks \u2014 Faith (Monastery)\nThe Byzantine army carried on many of the military traditions of the old Roman Empire into the Middle\nAges. This was a professional force that was well trained and well led. Officers studied tactics and command."
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 79
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 78
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 67
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 79
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 79
+            }
+        ]
+    },
+    {
+        "question": "What unique unit does the Persian create in Castle Age according to the given context?",
+        "true_answer": "The Persian creates a War Elephant in Castle Age.",
+        "source_doc": "78 Chapter VII  -  Units\nWar Elephant & Elite War Elephant\nPersian unique unit created in Castle Age. Slow, powerful, well armored,\nand difficult to destroy. Elite War Elephant causes area of effect damage;\ncan hit several adjacent targets simultaneously.\n/c67/c114/c101/c97/c116/c101/c100/c32/c97/c116 Castle\n/c83/c116/c114/c111/c110/c103/c32/c118/c115 /c46 swordsmen, archers\n/c87 /c101/c97/c107/c32/c118/c115 /c46 Pikemen, camels, Monks, Mamelukes",
+        "generated_answer": "Unfortunately, there's no mention of a unique unit created by the Persian civilization in Castle Age. The provided context only mentions units for Japanese and Samurai/Elite Samurai (page 66). I don't know.",
+        "retrieved_docs": [
+            "buildings. The Archery Range is used to create archers, the Stable to create cavalry, and\nthe Siege Workshop to build siege weapons. The Castle is used to create Trebuchets andthe unit unique to your civilization, and the Monastery is used to create Monks.\nTo create a military unit\nClick the Barracks, Archery Range, Stable, Siege\nWorkshop, Castle, or Monastery, and then click the",
+            "their own support on lands given to them by their chief. This system replaced much of the sharing of plunder .\nSamurai & Elite Samurai\nJapanese unique unit created in Castle Age. Infantry unit with fast\nattack.\n/c67/c114/c101/c97/c116/c101/c100/c32/c97/c116 Castle\n/c83/c116/c114/c111/c110/c103/c32/c118/c115 /c46 infantry, unique units\n/c87 /c101/c97/c107/c32/c118/c115 /c46 archers",
+            "31Advancing to the next age\nMost games begin in the Dark Age and you strive to advance through the\nFeudal, Castle, and Imperial Ages to improve the strength of your civilization.\nAdvancing to the next age lets you build different types of buildings, createmore powerful military units, and research more advanced technologies. Each\ncivilization has a unique unit that can only be created starting in the Castle",
+            "Chapter I: Getting Started\nWhat\u2019s new in Age of Empires II ............................................ 1",
+            "recruit several thousand expert longbowmen for armies going to France. As crossbows and early firearmscame into use,  men were trained to operate these weapons at a modified archery range.\nCastle\nCostly and time-consuming to construct, the Castle is the strongest\ndefensive structure. At the Castle you can create and upgrade your\ncivilization\u2019s unique unit and create the powerful Trebuchet siege"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 31
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 66
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 33
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 1
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 57
+            }
+        ]
+    },
+    {
+        "question": "What was the main purpose of using skirmishers equipped with bows, slings, and javelins?",
+        "true_answer": "The main purpose of using skirmishers equipped with bows, slings, and javelins was to disrupt enemy forces, cause casualties before the main battlelines clashed, and harass them as practical.",
+        "source_doc": "bows,  slings, and javelins. The intent was to disrupt the enemy force and cause casualties before the main battlelines clashed.  The skirmishers would retire to the side of the main battle and harass the enemy as practical.\nThey could also be useful in pursuit of a beaten enemy because they could move more quickly than men\nwearing armor . If caught in battle against men-at-arms, however, they could not stand and routed quickly.",
+        "generated_answer": "The main purpose of using skirmishers equipped with bows, slings, and javelins was to disrupt the enemy force and cause casualties before the main battle lines clashed. (Extracted from page 70)",
+        "retrieved_docs": [
+            "bows,  slings, and javelins. The intent was to disrupt the enemy force and cause casualties before the main battlelines clashed.  The skirmishers would retire to the side of the main battle and harass the enemy as practical.\nThey could also be useful in pursuit of a beaten enemy because they could move more quickly than men\nwearing armor . If caught in battle against men-at-arms, however, they could not stand and routed quickly.",
+            "Many armies of the Middle Ages used lightly armored skirmishers in support of the main fighting force of\narmored fighting men.  They could be difficult to control and of little value on the battlefield, but some armies\nused them effectively. Skirmishers were deployed in front of the main battle line and engaged the enemy with",
+            "55\nMissile weapons like the bow carried over into the Middle Ages from ancient times in most areas of the world.\nNorthern Europe was an exception for many centuries because the dense forests of the region nullified the\nrange advantage of bows. Throwing weapons like axes,  javelins, and knives were more popular there.  As the",
+            "often overrun by the heavy cavalry of both sides.  A few armies trained elite skirmishers who could disruptenemy formations,  fall back,  and support the main friendly fighting force from the sides. An army that could\nput elite skirmishers in the field to support its main army had an advantage over an army that did not. The",
+            "Chapter I: Getting Started\nWhat\u2019s new in Age of Empires II ............................................ 1"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 70
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 70
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 57
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 71
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 1
+            }
+        ]
+    },
+    {
+        "question": "What did the Crusaders encounter when they invaded the Holy Lands?",
+        "true_answer": "The Crusaders encountered the ideas of Islam, as well as new weapons, tactics, and desirable goods.",
+        "source_doc": "invaded the Holy Lands,  for example, they encountered the ideas of Islam, as well as new weapons, tactics, anddesirable goods.",
+        "generated_answer": "The Crusaders encountered new ideas of Islam, as well as new weapons, tactics, and desirable goods. (page 107)",
+        "retrieved_docs": [
+            "invaded the Holy Lands,  for example, they encountered the ideas of Islam, as well as new weapons, tactics, anddesirable goods.",
+            "/c85/c112/c103/c114/c97/c100/c101/c115 Attack \u2014 Forging, Iron Casting, Blast Furnace (Blacksmith)\nArmor \u2014 Scale Mail Armor, Chain Mail Armor, Plate Mail Armor\n(Blacksmith)\nSight \u2014 Tracking (Barracks)\nSpeed \u2014 Squires (Barracks)\nUnit creation speed \u2014 Conscription (Castle)\nYour units resistant to other Monks \u2014 Faith (Monastery)\nAt the height of the Christian Crusades into the Holy Land,  German crusaders formed an order of warrior",
+            "Arab rulers and took control themselves.  When Napoleon invaded Eg ypt in the eighteenth century, he defeated\na mameluke army at the Battle of the Pyramids.",
+            "quality product,  and high prices.\nCartography\nCartography (at the Market) lets you share exploration and\nunit line of sight with your allies so you see what they have\nexplored. (Before your allies can see what you have explored,\nthey must research Cartography, too.)\nThere was a revival of European learning after the Dark Ages that started mainly in the monasteries of the",
+            "Chapter I: Getting Started\nWhat\u2019s new in Age of Empires II ............................................ 1"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 107
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 67
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 79
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 98
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 1
+            }
+        ]
+    },
+    {
+        "question": "What does a well-built stone wall offer protection against in a civilization?",
+        "true_answer": "A well-built stone wall offers protection against raiders because it can be broken down only by a determined effort.",
+        "source_doc": "Larger and more advanced civilizations upgraded their defenses to stone walls when they could.  A well-built\nstone wall offered protection against raiders because it could be broken down only by a determined effort. T o\ncapture a walled town or castle might require a long siege or a battering by powerful siege engines. Stone wallswere expensive and time-consuming to build but worth the cost when guarding valuable locations.  One",
+        "generated_answer": "A well-built stone wall offers protection against raiders because it can be broken down only by a determined effort. (Page 58)",
+        "retrieved_docs": [
+            "Larger and more advanced civilizations upgraded their defenses to stone walls when they could.  A well-built\nstone wall offered protection against raiders because it could be broken down only by a determined effort. T o\ncapture a walled town or castle might require a long siege or a battering by powerful siege engines. Stone wallswere expensive and time-consuming to build but worth the cost when guarding valuable locations.  One",
+            "erected in a fraction of the time a stone wall would take.  At night the villagers would bring all their livestock,goods, and tools inside the palisade for protection.\nStone Wall\nStone Walls are stronger than Palisade Walls but more expensive. They\nslow down your enemies and give you the chance to fend them off. You\ncan upgrade your Stone Walls to Fortified Walls at the University.",
+            "Chapter I: Getting Started\nWhat\u2019s new in Age of Empires II ............................................ 1",
+            "and against fortifications.",
+            "and slow to build. In Age of Empires II, Fortified Walls do not shoot atenemies. However, the reinforced stone is difficult to breach without\nsiege weapons.\nThe fortified wall was an upgrade of the stone wall accomplished by building fighting positions into the wall\nso that defenders could be more effective in repulsing assaults. Strong points and bastions allowed defenders to"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 58
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 58
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 1
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 80
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 59
+            }
+        ]
+    },
+    {
+        "question": "What kind of information does the Statistics button display if the Normal mini-map mode is selected?",
+        "true_answer": "The score for each player",
+        "source_doc": "button above it and to the left.\nThe Statistics button displays different information depending on the mini-map mode\nyou have selected. If you have the Normal mini-map mode selected, the score for each\nplayer appears. If you have the Combat or Economic mode selected, different information\nappears. To learn more about the different mini-map modes, hold your mouse pointer overthe mini-map buttons to display information in the lower-left corner.",
+        "generated_answer": "If you have the Normal mini-map mode selected, the score for each player appears. \n\n(Reference: page 19)",
+        "retrieved_docs": [
+            "button above it and to the left.\nThe Statistics button displays different information depending on the mini-map mode\nyou have selected. If you have the Normal mini-map mode selected, the score for each\nplayer appears. If you have the Combat or Economic mode selected, different information\nappears. To learn more about the different mini-map modes, hold your mouse pointer overthe mini-map buttons to display information in the lower-left corner.",
+            "condition, you choose the time limit. A countdown clock is displayed in the upper-right\ncorner of the screen. When the clock reaches 0, the game ends and the player (or team)with the highest score wins. A team score is the average of all team members\u2019 scores.\nTo display the score\nClick the Advanced Commands  button near the mini-map in the\nlower-right corner of the screen, and then click the Statistics\nbutton above it and to the left.",
+            "area of the map\nClick your Scout Cavalry, and then\nright-click a location on the map oron the mini-map in the lower-right\ncorner of the screen.\nYour Scout Cavalry unit will go to the\nlocation, revealing part of the map as it\nmoves.",
+            "23To create or edit a scenario\n1 Click Map Editor  on the main menu, and then click Create Scenario or Edit\nScenario .\n2 Click the buttons ( Map, Terrain , Players , and so on) at the top of the Map Editor to\ndisplay the settings you can customize, and then select your scenario settings.\nFor help using the Map Editor, hold your mouse pointer over any item on the screen\nto display information at the bottom of the map.",
+            "games list does not display games created with Age of Empires or Rise of RomeExpansion. Also, games must be the same version; if one player has a patch version,\nall players must have it.\n\u2013or\u2013\nTo create a game, click the Create  button. Follow the instructions that appear on the\nscreen for the connection type you are using. Select the game settings. For help on"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 19
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 19
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 8
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 25
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 21
+            }
+        ]
+    },
+    {
+        "question": "What is a unique advantage of the camel in warfare?",
+        "true_answer": "The camel can move quickly across.",
+        "source_doc": "Barding Armor (Blacksmith)\nSpeed \u2014 Husbandry (Stable)\nUnit creation speed \u2014 Conscription (Castle)\nYour units resistant to other Monks \u2014 Faith (Monastery)\nThe camel was a useful mount for warriors in desert regions of the world because it could move quickly across",
+        "generated_answer": "The heavy camel was an experienced warrior and camel rider who wore some armor. They were used by desert civilizations to fight against archers from the Byzantine Empire and horse archers. (Page 78)",
+        "retrieved_docs": [
+            "Chapter I: Getting Started\nWhat\u2019s new in Age of Empires II ............................................ 1",
+            "15\nChoosing a map\nBefore you start a Random Map, Regicide, or Death\nMatch game, you can select the type of map to use.\nSome civilizations have combat advantages on\ncertain map types. For example, the Vikings excelat naval warfare and have an advantage on\nmaps with expanses of water.\nIf the map type is set to Random, the map\ntype is chosen for you (excluding Crater\nLake, Gold Rush, Black Forest, or Fortress).\nzArabia  \u2014 Arid desert with strategic",
+            "The heavy camel was an especially experienced warrior and camel rider who wore some armor . They were\nused by desert civilizations of the Middle East who fought against archers from the Byzantine Empire and\nhorse archers raiding down from the steppes of Asia.",
+            "quality product,  and high prices.\nCartography\nCartography (at the Market) lets you share exploration and\nunit line of sight with your allies so you see what they have\nexplored. (Before your allies can see what you have explored,\nthey must research Cartography, too.)\nThere was a revival of European learning after the Dark Ages that started mainly in the monasteries of the",
+            "researching Cartography at the Market). Also, each civiliza-tion has the advantage of its unique team bonus. When any\nplayer advances to the next age, other players are notified\nwith an on-screen message.\nChoosing your allies\nYou can choose your allies before you start a game or while you\nare playing. If you choose your allies before starting a game, the"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 1
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 17
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 78
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 98
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 47
+            }
+        ]
+    },
+    {
+        "question": "What are two roles of villagers??",
+        "true_answer": "The two roles of villagers in this context are zFisherman and zForager. The zFisherman gathers food from fish near the shore and deposits it at the Town Center or Mill, while the zForager gathers food from forage bushes and deposits it at the Town Center or Mill, whichever is closer.",
+        "source_doc": "increases Farm production. Click a villager, and then right-click an expired Farm to order the villager to automatically\nrebuild it.\nzFisherman  \u2014 Gathers food from fish near the shore and\ndeposits it at the Town Center or Mill. Fishing Ships also fish\nfor food and deposit it at the Dock.\nzForager  \u2014 Gathers food from forage bushes and deposits it at\nthe Town Center or Mill, whichever is closer.",
+        "generated_answer": "Two roles of villagers are: \n1. Garrisoning (p41) \n2. Idle if villager's previous task is impossible (p41)",
+        "retrieved_docs": [
+            "Chapter I: Getting Started\nWhat\u2019s new in Age of Empires II ............................................ 1",
+            "pikemen phalanxes and were put into combined formations with these units.  Crossbowmen needed to get closeto the enemy to shoot.  During assaults on fortifications and castles,  they were exposed to enemy fire. In\nconjunction with their more aggressive roles, the armor that light troops wore was upgraded to ring, or chain",
+            "quality product,  and high prices.\nCartography\nCartography (at the Market) lets you share exploration and\nunit line of sight with your allies so you see what they have\nexplored. (Before your allies can see what you have explored,\nthey must research Cartography, too.)\nThere was a revival of European learning after the Dark Ages that started mainly in the monasteries of the",
+            "watch reported danger to give the community time to prepare what defense it could.T echnologies",
+            "All villagers garrisoned by the original town bell are ungarrisoned and return to what they\nwere doing before the bell rang. If this is not possible (for example, if a villager was\nconstructing a building that was destroyed in combat), the villager returns to the location\nand stands idle.\nConverting enemy units & buildings\nYou can use Monks to convert enemy units and buildings to your civilization (player"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 1
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 103
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 98
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 92
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 41
+            }
+        ]
+    },
+    {
+        "question": "How does a trade unit return gold in Cart or Trade Cog game?",
+        "true_answer": "A trade unit returns gold to locations owned by its player, not allies.",
+        "source_doc": "Cart or Trade Cog returns to the Market or Dock where it received its trade goods andawaits orders. Trade units can only return gold to locations owned by their player, not\nallies.\nThe gold a trade unit is carrying back from a foreign Market or Dock is shown in the\nstatus area at the bottom of the screen when that trade unit is selected.\nTo establish a trade route",
+        "generated_answer": "A trade unit can only return gold to locations owned by their player, not allies. (Extracted from page 49)",
+        "retrieved_docs": [
+            "To establish a trade route\n1 Build a Trade Cart at the Market, or build a Trade Cog at the Dock.2 Click the Trade Cart or Trade Cog, and then right-click a foreign Market or Dock to\ntrade with.\nThe Trade Cart or Trade Cog travels to the foreign Market or Dock with a load of trade",
+            "Cart or Trade Cog returns to the Market or Dock where it received its trade goods andawaits orders. Trade units can only return gold to locations owned by their player, not\nallies.\nThe gold a trade unit is carrying back from a foreign Market or Dock is shown in the\nstatus area at the bottom of the screen when that trade unit is selected.\nTo establish a trade route",
+            "stockpile.\nEstablishing trade routes\nYou can establish trade routes with other players to generate gold. You can trade across\nland using Trade Carts and Markets or by sea using Trade Cogs and Docks. Trade Carts\ncan only trade at Markets and Trade Cogs can only trade at Docks. You can trade with",
+            "To trade using a Trade Cog\nClick the Trade Cog, and then right-click a foreign Dock.For more information on trading, see Chapter V .\nThe demands of trade along the northern coasts of Europe led to the development of new types of ships with",
+            "89\nTrade Cart\nCarries goods to foreign Markets and brings back gold as profit.\nDistant Markets are the most profitable.\n/c66/c117/c105/c108/c116/c32/c97/c116 Market\n/c85/c112/c103/c114/c97/c100/c101/c115 Your units resistant to other Monks \u2014 Faith (Monastery)\nTo trade using a Trade Cart\nClick the Trade Cart, and then right-click a foreign Market.For more information on trading, see Chapter V ."
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 49
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 49
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 49
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 84
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 91
+            }
+        ]
+    },
+    {
+        "question": "What is one ability that improves the conversion range of Monks in HP?",
+        "true_answer": "Block Printing",
+        "source_doc": "HP \u2014 Sanctity\nConvert other Monks \u2014 Atonement\nGreater conversion range \u2014 Block Printing\nLess rejuvenation time \u2014 Illumination\nYour units resistant to other Monks \u2014 Faith\nFor more information about Monks\u2019 abilities, see Chapter IV; for more information about\nhow to improve your Monks, see Chapter VIII.\nReligion was a powerful force during the Middle Ages, whether it was Roman Catholicism of the W est, Islam",
+        "generated_answer": "Block Printing from page 90.",
+        "retrieved_docs": [
+            "HP \u2014 Sanctity\nConvert other Monks \u2014 Atonement\nGreater conversion range \u2014 Block Printing\nLess rejuvenation time \u2014 Illumination\nYour units resistant to other Monks \u2014 Faith\nFor more information about Monks\u2019 abilities, see Chapter IV; for more information about\nhow to improve your Monks, see Chapter VIII.\nReligion was a powerful force during the Middle Ages, whether it was Roman Catholicism of the W est, Islam",
+            "conversion will fail. After a successful conversion, Monks must rest before attemptinganother conversion. Monks cannot convert Town Centers, Castles, Monasteries, Farms,\nFish Traps, walls, Gates, or Wonders or allied units or buildings.\nFor more information about improving your Monks\u2019 powers, see Chapter VII.Monks do not automatically convert units within their sight unless they are attacked. You",
+            "Chapter I: Getting Started\nWhat\u2019s new in Age of Empires II ............................................ 1",
+            "University\nThe University lets you research technology that improves your\nbuildings, towers, walls, and missile weapons.\nDuring the bleakest days of the Dark Ages,  learning was all but extinguished in\nmuch of Europe. A scattering of priests and monks in isolated monasteries carried\nforward the ability to read and write and kept books alive by copying old manuscripts. Charlemagne",
+            "must order a Monk to convert a unit. The Monk then attempts to convert the unit as\nsoon as it is within range. When the Monk has converted a unit, he stands idle untilgiven another command. There is a random chance that the Monk will fail to convert a\nunit. Monks must rejuvenate their strength after a successful conversion. The rejuvena-\ntion percentage is shown in the status area at the bottom of the screen."
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 90
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 41
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 1
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 55
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 41
+            }
+        ]
+    }
+]

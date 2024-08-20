@@ -1,0 +1,448 @@
+[
+    {
+        "question": "What type of camel was known to be an especially experienced warrior and camel rider?",
+        "true_answer": "The heavy camel was an especially experienced warrior and camel rider.",
+        "source_doc": "The heavy camel was an especially experienced warrior and camel rider who wore some armor . They were\nused by desert civilizations of the Middle East who fought against archers from the Byzantine Empire and\nhorse archers raiding down from the steppes of Asia.",
+        "generated_answer": "The heavy camel was known to be an especially experienced warrior and camel rider. They were used by desert civilizations of the Middle East, particularly the Saracens during the Crusades. Heavy camels excelled at killing other mounted units.",
+        "retrieved_docs": [
+            "The heavy camel was an especially experienced warrior and camel rider who wore some armor . They were\nused by desert civilizations of the Middle East who fought against archers from the Byzantine Empire and\nhorse archers raiding down from the steppes of Asia.",
+            "sand and could go long periods without water . In addition, horses shied away from the presence of camels. TheSaracens made good use of camels during the Crusades; camel riders appeared out of the desert to raid\nCrusader outposts and caravans and then escaped back into terrain that horses could not cross.\nHeavy Camel\nExcels at killing other mounted units.\n/c67/c114/c101/c97/c116/c101/c100/c32/c97/c116 Stable"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 78
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 78
+            }
+        ]
+    },
+    {
+        "question": "What are the standard ways to win a Random Map or Death Match game in this game?",
+        "true_answer": "You can win any Random Map or Death Match game by being the first player or team to defeat your enemies in military conquest, control all relics, or build a Wonder. Your opponents do not have to pursue the same victory condition.",
+        "source_doc": "the game. You can display the objectives again during a game by clicking the Objectives\nbutton at the top of the screen.\nStandard victory\nYou can win any Random Map or Death Match game by being the first player or team todefeat your enemies in military conquest, control all relics, or build a Wonder. You andyour opponents do not have to pursue the same victory condition. For example, you may",
+        "generated_answer": "You can win a Random Map or Death Match game by being the first player or team to defeat your enemies in military conquest, control all relics, or build a Wonder.",
+        "retrieved_docs": [
+            "16 Chapter II  -  Setting Up a GameHow to win\nHow you win a game depends on its victory conditions. If you\u2019re playing a Random Map\nor Death Match game, you can choose the victory condition before the game starts. Ifyou\u2019re playing any other type of game, you win by achieving the objective(s) displayed at\nthe beginning of the game, which may also include victory condition(s) required to win",
+            "the game. You can display the objectives again during a game by clicking the Objectives\nbutton at the top of the screen.\nStandard victory\nYou can win any Random Map or Death Match game by being the first player or team todefeat your enemies in military conquest, control all relics, or build a Wonder. You andyour opponents do not have to pursue the same victory condition. For example, you may"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 18
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 18
+            }
+        ]
+    },
+    {
+        "question": "What types of units can Non-upgraded Monks convert if they research technology at the Monastery?",
+        "true_answer": "Non-upgraded Monks can convert enemy villagers, ships, nonsiege military units, most buildings, all siege units, and enemy Monks if they research technology at the Monastery.",
+        "source_doc": "color) so you can control them. For example, if you convert enemy villagers, you can\ngather wood using them. If you convert an enemy Barracks, you can create infantry there.Non-upgraded Monks can convert enemy villagers, ships, and nonsiege military units. If\nyou research technology at the Monastery, they can also convert most buildings, all siege\nunits, and enemy Monks. Units that you convert count toward your population.",
+        "generated_answer": "Non-upgraded Monks can convert enemy villagers, ships, nonsiege military units, most buildings, and siege units, as well as enemy Monks if technology is researched at the Monastery.",
+        "retrieved_docs": [
+            "color) so you can control them. For example, if you convert enemy villagers, you can\ngather wood using them. If you convert an enemy Barracks, you can create infantry there.Non-upgraded Monks can convert enemy villagers, ships, and nonsiege military units. If\nyou research technology at the Monastery, they can also convert most buildings, all siege\nunits, and enemy Monks. Units that you convert count toward your population."
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 41
+            }
+        ]
+    },
+    {
+        "question": "What military tradition did the Byzantine army carry on from the old Roman Empire?",
+        "true_answer": "The Byzantine army carried on many of the military traditions of the old Roman Empire into the Middle Ages.",
+        "source_doc": "Armor \u2014 Scale Barding Armor, Chain Barding Armor, Plate\nBarding Armor (Blacksmith)\nSpeed \u2014 Husbandry (Stable)\nUnit creation speed \u2014 Conscription (Castle)\nYour units resistant to other Monks \u2014 Faith (Monastery)\nThe Byzantine army carried on many of the military traditions of the old Roman Empire into the Middle\nAges. This was a professional force that was well trained and well led. Officers studied tactics and command.",
+        "generated_answer": "The Byzantine army carried on the military tradition of maintaining a professional force that was well trained and well led, similar to the old Roman Empire. They organized their units in formal groups that maintained traditions for centuries. This included the use of cataphracts, partially armored cavalrymen who fought with bows and swords.",
+        "retrieved_docs": [
+            "Armor \u2014 Scale Barding Armor, Chain Barding Armor, Plate\nBarding Armor (Blacksmith)\nSpeed \u2014 Husbandry (Stable)\nUnit creation speed \u2014 Conscription (Castle)\nYour units resistant to other Monks \u2014 Faith (Monastery)\nThe Byzantine army carried on many of the military traditions of the old Roman Empire into the Middle\nAges. This was a professional force that was well trained and well led. Officers studied tactics and command.",
+            "The army was organized into formal units that maintained their own traditions for centuries.  The best units\nin the Byzantine army were partially armored cavalrymen called cataphracts.  They fought with severalweapons, including the bow and sword.  With plains to the east and north of their empire, the cataphract was\nideally suited for combat against the unarmored cavalry of their enemies.  The Byzantine army went into"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 79
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 79
+            }
+        ]
+    },
+    {
+        "question": "What countries did the Normans invade besides England in 1066?",
+        "true_answer": "The Normans also invaded Sicily and southern Italy.",
+        "source_doc": "invasion of 1066.  The Normans also invaded Sicily and southern Italy. Many of the Crusades involved sea\nmovement from France to the Holy Land.  The English brought armies into France several times during theHundred Y ear\u2019 s W ar .\nDemolition Ship & Heavy Demolition Ship\nFilled with explosives. Pilot near enemy ships and detonate to wrest\ncontrol of the sea from an entrenched opponent.\n/c66/c117/c105/c108/c116/c32/c97/c116 Dock",
+        "generated_answer": "The Normans invaded Wales and Ireland in addition to England in 1066!",
+        "retrieved_docs": [
+            "invasion of 1066.  The Normans also invaded Sicily and southern Italy. Many of the Crusades involved sea\nmovement from France to the Holy Land.  The English brought armies into France several times during theHundred Y ear\u2019 s W ar .\nDemolition Ship & Heavy Demolition Ship\nFilled with explosives. Pilot near enemy ships and detonate to wrest\ncontrol of the sea from an entrenched opponent.\n/c66/c117/c105/c108/c116/c32/c97/c116 Dock"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 86
+            }
+        ]
+    },
+    {
+        "question": "What impact did Viking sea raiders have on the progress made by Charlemagne?",
+        "true_answer": "The Vikings caused significant turmoil, which largely erased the progress made by Charlemagne in uniting Northern Europe and beginning a rebirth of civilization.",
+        "source_doc": "Late in the eighth century Viking sea raiders from Scandinavia appeared suddenly in Northern Europe.  They\nraided and plundered coastal communities for the next 150 years.  Most of the progress made by Charlemagne\nin uniting Northern Europe and beginning a rebirth of civilization was erased by the turmoil they caused. The",
+        "generated_answer": "The Viking sea raiders disrupted the progress made by Charlemagne, erasing most of his achievements in uniting Northern Europe and promoting a rebirth of civilization. Their raids caused turmoil for 150 years. This hindered the stability and unity that Charlemagne had established.",
+        "retrieved_docs": [
+            "Late in the eighth century Viking sea raiders from Scandinavia appeared suddenly in Northern Europe.  They\nraided and plundered coastal communities for the next 150 years.  Most of the progress made by Charlemagne\nin uniting Northern Europe and beginning a rebirth of civilization was erased by the turmoil they caused. The"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 65
+            }
+        ]
+    },
+    {
+        "question": "In what state were Viking warriors known to enter during battle?",
+        "true_answer": "Viking warriors were known to enter a state of 'berserk' during battle, which was characterized by inhuman zeal and obliviousness to danger.",
+        "source_doc": "Vikings were known for their great seamanship and ferocity in battle. Witnesses claimed that Viking warriorswould occasionally go \u201cberserk\u201d  and attack with nearly inhuman zeal, oblivious to all danger . Such behavior\nwas terrifying to behold and very difficult to withstand. The ability to go mad with battle lust was a powerful\nattribute during a period of widespread superstition.",
+        "generated_answer": "Viking warriors were known to enter battle in a frenzy, often naked and armed with their trusty axes!",
+        "retrieved_docs": [
+            "Vikings were known for their great seamanship and ferocity in battle. Witnesses claimed that Viking warriorswould occasionally go \u201cberserk\u201d  and attack with nearly inhuman zeal, oblivious to all danger . Such behavior\nwas terrifying to behold and very difficult to withstand. The ability to go mad with battle lust was a powerful\nattribute during a period of widespread superstition."
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 65
+            }
+        ]
+    },
+    {
+        "question": "What shape were guard towers usually in the context given?",
+        "true_answer": "Guard towers were usually round.",
+        "source_doc": "for fighting defense. Whereas some earlier watch towers had been square,  guard towers were usually round toeliminate a sharp corner that could be knocked off. Fighting positions at the top of a guard tower were\nimproved to protect defenders. Hoardings extended out from the top, allowing defenders to reach the bottom of\nthe guard tower with missiles.  Entrances to guard towers were made more elaborate and more easilydefendable.\nKeep",
+        "generated_answer": "Guard towers were usually round in shape. This was done to eliminate a sharp corner that could be knocked off, making them more defendable.",
+        "retrieved_docs": [
+            "for fighting defense. Whereas some earlier watch towers had been square,  guard towers were usually round toeliminate a sharp corner that could be knocked off. Fighting positions at the top of a guard tower were\nimproved to protect defenders. Hoardings extended out from the top, allowing defenders to reach the bottom of\nthe guard tower with missiles.  Entrances to guard towers were made more elaborate and more easilydefendable.\nKeep"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 60
+            }
+        ]
+    },
+    {
+        "question": "What type of unit is created at the Stable in this context?",
+        "true_answer": "Cavalry",
+        "source_doc": "Cavalry\nCavalry units are used for scouting and combat. You can create cavalry units at the Stable\nand improve them by researching technology at the Blacksmith.\nScout Cavalry\nFast with extensive sight; resistant to conversion.\n/c67/c114/c101/c97/c116/c101/c100/c32/c97/c116 Stable\n/c83/c116/c114/c111/c110/c103/c32/c118/c115 /c46 archers, mangonels, cavalry archers, Bombard Cannons, Monks",
+        "generated_answer": "In Age of Empires 2, a Stable produces Cavalry units!",
+        "retrieved_docs": [
+            "you set a gather\npoint there while the units are beingcreated. They cannot reenter once\nungarrisoned. You must have a Barracks\nbefore you can build a Stable.\nAs the Middle Ages continued,  the rise in importance of mounted warriors\ncreated demand for large numbers of horses, which were bred and maintained at the stable. A variety of horses"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 56
+            }
+        ]
+    },
+    {
+        "question": "What can move a Relic in this context?",
+        "true_answer": "A Relic can only be moved by a Monk.",
+        "source_doc": "are special objects (similar to trophies) that are placed randomly on the map. There\nare multiple relics on a map. They can only be moved if carried by a Monk (see\nChapter IV), and they must be garrisoned inside a Monastery in order to be con-trolled by your civilization. Relics cannot be destroyed. For example, if a Transport\nShip sinks with a Monk carrying a relic on board, the relic appears on a nearby shore.",
+        "generated_answer": "",
+        "retrieved_docs": [],
+        "metadata": []
+    },
+    {
+        "question": "How does building Mills, LumberCamps, or Mining Camps affect resource collection speed?",
+        "true_answer": "Building Mills near sources of food, LumberCamps near forests, and Mining Camps near stone and gold mines improves the speed at which villagers can deposit resources.",
+        "source_doc": "The more villagers at work gathering resources, the faster your stockpile grows. Villagers\ncan deposit the resources more quickly if you build Mills near sources of food, LumberCamps near forests, and Mining Camps near stone and gold mines.\nResearching the following technologies improves your villagers\u2019 gathering abilities:",
+        "generated_answer": "Building Mills, LumberCamps, or Mining Camps near resources (food, forests, stone and gold mines) decreases the distance villagers walk, allowing them to deposit resources more quickly and increasing resource collection speed.",
+        "retrieved_docs": [
+            "The more villagers at work gathering resources, the faster your stockpile grows. Villagers\ncan deposit the resources more quickly if you build Mills near sources of food, LumberCamps near forests, and Mining Camps near stone and gold mines.\nResearching the following technologies improves your villagers\u2019 gathering abilities:",
+            "Constructing buildings\nVillagers can deposit resources at the Town Center,the Mill, the Lumber Camp, and the Mining Camp.\nConstructing these buildings near a resource\ndecreases the distance your villagers walk, so yourstockpile grows more quickly.\nTo build a Mill\nClick a villager, click the Buildings  button,\nclick the Build Mill  button, and then click\na location near a forage bush. If the",
+            "Lumber Camp\nThe Lumber Camp is used to deposit wood and research wood-\ngathering improvements. Build Lumber Camps near forests to\ngather wood faster.\nThe great forests of Dark Age Europe were an important natural resource that was\nconverted into wood for building and firewood for fuel. Lumber was cut from tree\nlogs at a lumber camp. The early lumber camps were highly labor-intensive. A log was laid perpendicular to"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 28
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 7
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 53
+            }
+        ]
+    },
+    {
+        "question": "What action does a Monk take once he has converted a unit?",
+        "true_answer": "Once a Monk has converted a unit, he stands idle until given another command.",
+        "source_doc": "must order a Monk to convert a unit. The Monk then attempts to convert the unit as\nsoon as it is within range. When the Monk has converted a unit, he stands idle untilgiven another command. There is a random chance that the Monk will fail to convert a\nunit. Monks must rejuvenate their strength after a successful conversion. The rejuvena-\ntion percentage is shown in the status area at the bottom of the screen.",
+        "generated_answer": "After converting a unit, a Monk stands idle until given another command. They must rejuvenate their strength after a successful conversion.",
+        "retrieved_docs": [
+            "must order a Monk to convert a unit. The Monk then attempts to convert the unit as\nsoon as it is within range. When the Monk has converted a unit, he stands idle untilgiven another command. There is a random chance that the Monk will fail to convert a\nunit. Monks must rejuvenate their strength after a successful conversion. The rejuvena-\ntion percentage is shown in the status area at the bottom of the screen.",
+            "conversion will fail. After a successful conversion, Monks must rest before attemptinganother conversion. Monks cannot convert Town Centers, Castles, Monasteries, Farms,\nFish Traps, walls, Gates, or Wonders or allied units or buildings.\nFor more information about improving your Monks\u2019 powers, see Chapter VII.Monks do not automatically convert units within their sight unless they are attacked. You"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 41
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 41
+            }
+        ]
+    },
+    {
+        "question": "What structures and units can survive an attack in the given context?",
+        "true_answer": "Towers, walls, gates, relics, Fishing Ships, Fish Traps, Transport Ships, Trade Ships, Trade Carts, Farms, and sheep",
+        "source_doc": "must destroy all units and buildings but the following: towers, walls, gates, relics,Fishing Ships, Fish Traps, Transport Ships, Trade Cogs, Trade Carts, Farms, and\nsheep.\nYour military units, warships, and towers automatically attack enemy units\nwithin their line of sight unless you order them to attack a different unit or theyare set to No Attack.\nEnemy buildings and walls are not visible until you explore the area of the map",
+        "generated_answer": "In the given context, the following structures and units can survive an attack:\n\n* Towers\n* Walls\n* Gates\n* Relics\n* Fishing Ships\n* Fish Traps\n* Transport Ships\n* Trade Cogs\n* Trade Carts\n* Farms\n* Sheep\n* Garrisoned units (if they are inside a building)",
+        "retrieved_docs": [
+            "must destroy all units and buildings but the following: towers, walls, gates, relics,Fishing Ships, Fish Traps, Transport Ships, Trade Cogs, Trade Carts, Farms, and\nsheep.\nYour military units, warships, and towers automatically attack enemy units\nwithin their line of sight unless you order them to attack a different unit or theyare set to No Attack.\nEnemy buildings and walls are not visible until you explore the area of the map",
+            "Garrisoning units & relics inside buildings\nYou can garrison units inside buildings to protect and heal them as well as to launchsurprise attacks. Garrisoned units are not damaged if the building is attacked, but they areejected if the building suffers heavy damage or is destroyed. Garrisoned units heal\nautomatically. You can set a gather point inside any building while its units are being"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 36
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 39
+            }
+        ]
+    },
+    {
+        "question": "Which religious groups embraced the practice of living in monasteries?",
+        "true_answer": "Monastic life was embraced by several religions, including Christianity and Buddhism.",
+        "source_doc": "53\nMonasteries were closed religious communities to which particularly devout priests, scholars,  and believers\nwithdrew for a life of prayer, study, and service. Monastic life was embraced by several religions,  including\nChristianity and Buddhism. Residents of monasteries became known as monks. In parts of Dark Age Europe,",
+        "generated_answer": "Christianity and Buddhism embraced the practice of living in monasteries, where devout individuals would live a life of prayer, study, and service as monks. Monasteries also served as centers of learning and provided important local institutions for education, healthcare, and emergency relief. In some cases, they became wealthy due to donated land and stockpiles of food.",
+        "retrieved_docs": [
+            "53\nMonasteries were closed religious communities to which particularly devout priests, scholars,  and believers\nwithdrew for a life of prayer, study, and service. Monastic life was embraced by several religions,  including\nChristianity and Buddhism. Residents of monasteries became known as monks. In parts of Dark Age Europe,",
+            "monasteries were the only remaining centers of learning. Irish monks,  for example, were instrumental inpreserving much ancient knowledge and spreading it back into Europe as the Dark Ages waned. Over time\nmonasteries grew rich in donated land.  They became very important local institutions as a source of educated\nmen who could serve as administrators. They also provided health care and emergency relief from theirstockpiles of food.\nUniversity",
+            "in the Middle East,  or Buddhism in Asia. The missionaries and teachers of religion were mainly monks, menwho took vows of poverty and who dedicated their lives to spreading their message.  Middle Age conflicts often\nderived from religious differences and were led or supported by contingents of monks on each side. The"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 55
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 55
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 90
+            }
+        ]
+    },
+    {
+        "question": "What determines the resistance of a unit to other Monks in the given context?",
+        "true_answer": "The resistance of a unit to other Monks is determined by 'Faith' (Monastery)",
+        "source_doc": "/c85/c112/c103/c114/c97/c100/c101/c115 Attack \u2014 Forging, Iron Casting, Blast Furnace (Blacksmith)\nArmor \u2014 Scale Barding Armor, Chain Barding Armor, Plate\nBarding Armor (Blacksmith)\nSpeed \u2014 Husbandry (Stable)\nUnit creation speed \u2014 Conscription (Castle)\nYour units resistant to other Monks \u2014 Faith (Monastery)\nThere was a hierarchy among knights based on feudal rank and fighting prowess. A lowly knight might",
+        "generated_answer": "Faith in the Monastery determines a unit's resistance to other Monks.",
+        "retrieved_docs": [
+            "Speed \u2014 Squires (Barracks)\nUnit creation speed \u2014 Conscription (Castle)\nYour units resistant to other Monks \u2014 Faith (Monastery)"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 62
+            }
+        ]
+    },
+    {
+        "question": "Which region did the Byzantine Empire lose during its decline?",
+        "true_answer": "The Byzantine Empire lost the plains of Asia Minor during its decline.",
+        "source_doc": "decline partially because it lost the plains of Asia Minor from which it had drawn both horses and cavalrymenfor service as cataphracts.\nMameluke & Elite Mameluke\nSaracen unique unit created in Castle Age. Camel with ranged attack.\nExcels vs. other mounted units.\n/c67/c114/c101/c97/c116/c101/c100/c32/c97/c116 Castle\n/c83/c116/c114/c111/c110/c103/c32/c118/c115 /c46 Barracks units, Monks, Teutonic Knights",
+        "generated_answer": "The Byzantine Empire lost control of much of its territory in Eastern Europe and Asia Minor to various forces, but a significant loss was the loss of Bulgaria.",
+        "retrieved_docs": [],
+        "metadata": []
+    },
+    {
+        "question": "What unique unit does the Persian create in Castle Age according to the given context?",
+        "true_answer": "The Persian creates a War Elephant in Castle Age.",
+        "source_doc": "78 Chapter VII  -  Units\nWar Elephant & Elite War Elephant\nPersian unique unit created in Castle Age. Slow, powerful, well armored,\nand difficult to destroy. Elite War Elephant causes area of effect damage;\ncan hit several adjacent targets simultaneously.\n/c67/c114/c101/c97/c116/c101/c100/c32/c97/c116 Castle\n/c83/c116/c114/c111/c110/c103/c32/c118/c115 /c46 swordsmen, archers\n/c87 /c101/c97/c107/c32/c118/c115 /c46 Pikemen, camels, Monks, Mamelukes",
+        "generated_answer": "The Persian creates War Elephant in Castle Age.",
+        "retrieved_docs": [
+            "78 Chapter VII  -  Units\nWar Elephant & Elite War Elephant\nPersian unique unit created in Castle Age. Slow, powerful, well armored,\nand difficult to destroy. Elite War Elephant causes area of effect damage;\ncan hit several adjacent targets simultaneously.\n/c67/c114/c101/c97/c116/c101/c100/c32/c97/c116 Castle\n/c83/c116/c114/c111/c110/c103/c32/c118/c115 /c46 swordsmen, archers\n/c87 /c101/c97/c107/c32/c118/c115 /c46 Pikemen, camels, Monks, Mamelukes",
+            "buildings. The Archery Range is used to create archers, the Stable to create cavalry, and\nthe Siege Workshop to build siege weapons. The Castle is used to create Trebuchets andthe unit unique to your civilization, and the Monastery is used to create Monks.\nTo create a military unit\nClick the Barracks, Archery Range, Stable, Siege\nWorkshop, Castle, or Monastery, and then click the"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 80
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 31
+            }
+        ]
+    },
+    {
+        "question": "What was the main purpose of using skirmishers equipped with bows, slings, and javelins?",
+        "true_answer": "The main purpose of using skirmishers equipped with bows, slings, and javelins was to disrupt enemy forces, cause casualties before the main battlelines clashed, and harass them as practical.",
+        "source_doc": "bows,  slings, and javelins. The intent was to disrupt the enemy force and cause casualties before the main battlelines clashed.  The skirmishers would retire to the side of the main battle and harass the enemy as practical.\nThey could also be useful in pursuit of a beaten enemy because they could move more quickly than men\nwearing armor . If caught in battle against men-at-arms, however, they could not stand and routed quickly.",
+        "generated_answer": "The main purpose of using skirmishers equipped with bows, slings, and javelins was to disrupt the enemy force and cause casualties before the main battlelines clashed. They were also useful in pursuit of a beaten enemy due to their mobility. However, they could not stand against men-at-arms and would quickly rout if caught in battle.",
+        "retrieved_docs": [
+            "bows,  slings, and javelins. The intent was to disrupt the enemy force and cause casualties before the main battlelines clashed.  The skirmishers would retire to the side of the main battle and harass the enemy as practical.\nThey could also be useful in pursuit of a beaten enemy because they could move more quickly than men\nwearing armor . If caught in battle against men-at-arms, however, they could not stand and routed quickly.",
+            "Many armies of the Middle Ages used lightly armored skirmishers in support of the main fighting force of\narmored fighting men.  They could be difficult to control and of little value on the battlefield, but some armies\nused them effectively. Skirmishers were deployed in front of the main battle line and engaged the enemy with"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 70
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 70
+            }
+        ]
+    },
+    {
+        "question": "What did the Crusaders encounter when they invaded the Holy Lands?",
+        "true_answer": "The Crusaders encountered the ideas of Islam, as well as new weapons, tactics, and desirable goods.",
+        "source_doc": "invaded the Holy Lands,  for example, they encountered the ideas of Islam, as well as new weapons, tactics, anddesirable goods.",
+        "generated_answer": "The Crusaders encountered the ideas of Islam and new weapons, tactics, and desirable goods when they invaded the Holy Lands. They also faced resistance from Islamic Arabs who controlled the region.",
+        "retrieved_docs": [
+            "invaded the Holy Lands,  for example, they encountered the ideas of Islam, as well as new weapons, tactics, anddesirable goods.",
+            "Crusades, for example, were multiple attempts by European Christians to wrest control of the Holy Land fromthe hands of Islamic Arabs. Large numbers of monks accompanied the Christian crusading armies."
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 107
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 90
+            }
+        ]
+    },
+    {
+        "question": "What does a well-built stone wall offer protection against in a civilization?",
+        "true_answer": "A well-built stone wall offers protection against raiders because it can be broken down only by a determined effort.",
+        "source_doc": "Larger and more advanced civilizations upgraded their defenses to stone walls when they could.  A well-built\nstone wall offered protection against raiders because it could be broken down only by a determined effort. T o\ncapture a walled town or castle might require a long siege or a battering by powerful siege engines. Stone wallswere expensive and time-consuming to build but worth the cost when guarding valuable locations.  One",
+        "generated_answer": "A well-built stone wall offers protection against raiders in a civilization by slowing them down and giving the defenders time to fend them off, potentially requiring a long siege or powerful siege engines to capture a walled town or castle.",
+        "retrieved_docs": [
+            "Larger and more advanced civilizations upgraded their defenses to stone walls when they could.  A well-built\nstone wall offered protection against raiders because it could be broken down only by a determined effort. T o\ncapture a walled town or castle might require a long siege or a battering by powerful siege engines. Stone wallswere expensive and time-consuming to build but worth the cost when guarding valuable locations.  One",
+            "erected in a fraction of the time a stone wall would take.  At night the villagers would bring all their livestock,goods, and tools inside the palisade for protection.\nStone Wall\nStone Walls are stronger than Palisade Walls but more expensive. They\nslow down your enemies and give you the chance to fend them off. You\ncan upgrade your Stone Walls to Fortified Walls at the University."
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 58
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 58
+            }
+        ]
+    },
+    {
+        "question": "What kind of information does the Statistics button display if the Normal mini-map mode is selected?",
+        "true_answer": "The score for each player",
+        "source_doc": "button above it and to the left.\nThe Statistics button displays different information depending on the mini-map mode\nyou have selected. If you have the Normal mini-map mode selected, the score for each\nplayer appears. If you have the Combat or Economic mode selected, different information\nappears. To learn more about the different mini-map modes, hold your mouse pointer overthe mini-map buttons to display information in the lower-left corner.",
+        "generated_answer": "The Statistics button displays the score for each player if the Normal mini-map mode is selected.",
+        "retrieved_docs": [
+            "button above it and to the left.\nThe Statistics button displays different information depending on the mini-map mode\nyou have selected. If you have the Normal mini-map mode selected, the score for each\nplayer appears. If you have the Combat or Economic mode selected, different information\nappears. To learn more about the different mini-map modes, hold your mouse pointer overthe mini-map buttons to display information in the lower-left corner."
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 19
+            }
+        ]
+    },
+    {
+        "question": "What is a unique advantage of the camel in warfare?",
+        "true_answer": "The camel can move quickly across.",
+        "source_doc": "Barding Armor (Blacksmith)\nSpeed \u2014 Husbandry (Stable)\nUnit creation speed \u2014 Conscription (Castle)\nYour units resistant to other Monks \u2014 Faith (Monastery)\nThe camel was a useful mount for warriors in desert regions of the world because it could move quickly across",
+        "generated_answer": "The camel's ability to move quickly across sand and go long periods without water is a unique advantage in warfare. Additionally, camels can cross terrain that horses cannot, making them useful for surprise attacks and escapes. This allowed the Saracens to effectively use camels during the Crusades.",
+        "retrieved_docs": [
+            "Barding Armor (Blacksmith)\nSpeed \u2014 Husbandry (Stable)\nUnit creation speed \u2014 Conscription (Castle)\nYour units resistant to other Monks \u2014 Faith (Monastery)\nThe camel was a useful mount for warriors in desert regions of the world because it could move quickly across",
+            "sand and could go long periods without water . In addition, horses shied away from the presence of camels. TheSaracens made good use of camels during the Crusades; camel riders appeared out of the desert to raid\nCrusader outposts and caravans and then escaped back into terrain that horses could not cross.\nHeavy Camel\nExcels at killing other mounted units.\n/c67/c114/c101/c97/c116/c101/c100/c32/c97/c116 Stable"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 78
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 78
+            }
+        ]
+    },
+    {
+        "question": "What are two roles of villagers??",
+        "true_answer": "The two roles of villagers in this context are zFisherman and zForager. The zFisherman gathers food from fish near the shore and deposits it at the Town Center or Mill, while the zForager gathers food from forage bushes and deposits it at the Town Center or Mill, whichever is closer.",
+        "source_doc": "increases Farm production. Click a villager, and then right-click an expired Farm to order the villager to automatically\nrebuild it.\nzFisherman  \u2014 Gathers food from fish near the shore and\ndeposits it at the Town Center or Mill. Fishing Ships also fish\nfor food and deposit it at the Dock.\nzForager  \u2014 Gathers food from forage bushes and deposits it at\nthe Town Center or Mill, whichever is closer.",
+        "generated_answer": "In Age of Empires 2, villagers can gather resources (food, wood, stone, and gold) and build buildings!",
+        "retrieved_docs": [
+            "and gold, hunt, forage, fish, herd sheep, and farm. They also construct buildings andrepair damaged buildings, ships, and siege weapons. If necessary, they can also engage in\ncombat. Villager gender is randomly determined when you create a new villager. They\nperform the same tasks regardless of their gender.\nThe great percentage of people in the Middle Ages were\npeasants, serfs, and lowly villagers who gathered the food",
+            "24 Chapter III  -  Building Your EmpireChapter III\nPutting your villagers to work\nVillagers are invaluable to your civilization. Their primary function\nis to gather wood, food, gold, and stone from the land and deposit it\nin your stockpile. They also construct buildings and repair damaged\nbuildings, boats, and siege weapons. In a pinch, they can evenengage in combat. Fishing Ships also contribute to population count",
+            "because their sole purpose is to fish for food.\nThe more villagers you have, the faster you can build up your\ncivilization. Researching the Wheelbarrow (at the Town Center)makes villagers work faster.\nWhen you put a villager to work, its name in the status area at the\nbottom of the screen indicates its current task:\nzFarmer  \u2014 Gathers food from Farms and deposits it at the\nTown Center or Mill. Researching technologies at the Mill"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 89
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 26
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 26
+            }
+        ]
+    },
+    {
+        "question": "How does a trade unit return gold in Cart or Trade Cog game?",
+        "true_answer": "A trade unit returns gold to locations owned by its player, not allies.",
+        "source_doc": "Cart or Trade Cog returns to the Market or Dock where it received its trade goods andawaits orders. Trade units can only return gold to locations owned by their player, not\nallies.\nThe gold a trade unit is carrying back from a foreign Market or Dock is shown in the\nstatus area at the bottom of the screen when that trade unit is selected.\nTo establish a trade route",
+        "generated_answer": "A trade unit returns gold to the Market or Dock where it received its trade goods, which must be owned by the player themselves, not their allies. The amount of gold being carried back is shown in the status area at the bottom of the screen when the trade unit is selected. The trade unit continues to travel back and forth along the trade route until further orders are given or it's destroyed or converted.",
+        "retrieved_docs": [
+            "Cart or Trade Cog returns to the Market or Dock where it received its trade goods andawaits orders. Trade units can only return gold to locations owned by their player, not\nallies.\nThe gold a trade unit is carrying back from a foreign Market or Dock is shown in the\nstatus area at the bottom of the screen when that trade unit is selected.\nTo establish a trade route",
+            "goods, picks up a load of gold (profit from the trade goods), and returns to your Market orDock to deposit the gold in your stockpile. The trade unit continues to travel back and\nforth along the trade route unless you send it to a different location or it is destroyed or\nconverted by the enemy."
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 49
+            },
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 49
+            }
+        ]
+    },
+    {
+        "question": "What is one ability that improves the conversion range of Monks in HP?",
+        "true_answer": "Block Printing",
+        "source_doc": "HP \u2014 Sanctity\nConvert other Monks \u2014 Atonement\nGreater conversion range \u2014 Block Printing\nLess rejuvenation time \u2014 Illumination\nYour units resistant to other Monks \u2014 Faith\nFor more information about Monks\u2019 abilities, see Chapter IV; for more information about\nhow to improve your Monks, see Chapter VIII.\nReligion was a powerful force during the Middle Ages, whether it was Roman Catholicism of the W est, Islam",
+        "generated_answer": "The \"Inferno\" ability increases the conversion range of Monks in Age of Empires II!",
+        "retrieved_docs": [
+            "HP \u2014 Sanctity\nConvert other Monks \u2014 Atonement\nGreater conversion range \u2014 Block Printing\nLess rejuvenation time \u2014 Illumination\nYour units resistant to other Monks \u2014 Faith\nFor more information about Monks\u2019 abilities, see Chapter IV; for more information about\nhow to improve your Monks, see Chapter VIII.\nReligion was a powerful force during the Middle Ages, whether it was Roman Catholicism of the W est, Islam"
+        ],
+        "metadata": [
+            {
+                "source": "docs/Age_of_Empires_2_Manual.pdf",
+                "page": 90
+            }
+        ]
+    }
+]
